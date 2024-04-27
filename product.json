@@ -10,7 +10,7 @@
             "stock": 94,
             "brand": "Apple",
             "category": "smartphones",
-            "thumbnail": "<img src="https://img.youtube.com/vi/we9EKHD8moA/maxresdefault.jpg" alt="iPhone 9 - CONFIRMED Thumbnail">",
+            "thumbnail": "<img src=\"https://img.youtube.com/vi/we9EKHD8moA/maxresdefault.jpg\" alt=\"iPhone 9 - CONFIRMED Thumbnail\">",
             "images": [
                 "https://m.media-amazon.com/images/I/61Y6k6KdkTL._SX679_.jpg",
                 "https://m.media-amazon.com/images/I/61GEvnQfa5L._SX679_.jpg",
@@ -28,7 +28,7 @@
             "stock": 34,
             "brand": "Apple",
             "category": "smartphones",
-            "thumbnail": "<img src="https://img.youtube.com/vi/opavYb_xMVg/maxresdefault.jpg" alt="₹10K iPhone X in 2023 - Thumbnail">",
+            "thumbnail": "<img src=\"https://img.youtube.com/vi/opavYb_xMVg/maxresdefault.jpg\" alt=\"₹10K iPhone X in 2023 - Thumbnail\">",
             "images": [
                 "https://controlz.world/cdn/shop/files/4_4aa51121-01b6-4438-8b11-b3b38a636e2e.jpg?v=1706006091&width=823",
                 "https://controlz.world/cdn/shop/files/5_14b3daa3-db9d-4cff-9ba0-9f645a19c5b8.jpg?v=1714027075&width=823",
@@ -46,7 +46,7 @@
             "stock": 36,
             "brand": "Samsung",
             "category": "smartphones",
-            "thumbnail": "<img src="https://img.youtube.com/vi/AaB3p1TqZzo/maxresdefault.jpg" alt="Samsung Odyssey Universe Thumbnail">",
+            "thumbnail": "<img src=\"https://img.youtube.com/vi/AaB3p1TqZzo/maxresdefault.jpg\" alt=\"Samsung Odyssey Universe Thumbnail\">",
             "images": [
                 "https://admin.hyperce.io/assets/thumbnail__12__preview.jpg?preset=full"
             ]
@@ -61,7 +61,7 @@
             "stock": 123,
             "brand": "OPPO",
             "category": "smartphones",
-            "thumbnail": "<img src="https://img.youtube.com/vi/m3fsTZHFc40/maxresdefault.jpg" alt="OPPO F19 Pro+ Trailer Thumbnail">",
+            "thumbnail": "<img src=\"https://img.youtube.com/vi/m3fsTZHFc40/maxresdefault.jpg\" alt=\"OPPO F19 Pro+ Trailer Thumbnail\">",
             "images": [
                 "https://m.media-amazon.com/images/I/41uiDAXRhgL._SX300_SY300_QL70_FMwebp_.jpg",
                 "https://m.media-amazon.com/images/I/81cmkaYSpBL._SX679_.jpg",
@@ -79,7 +79,7 @@
             "stock": 32,
             "brand": "Huawei",
             "category": "smartphones",
-            "thumbnail": "<img src="https://i.ytimg.com/vi/naJweew98tE/maxresdefault.jpg" alt="YouTube Thumbnail">",
+            "thumbnail": "<img src=\"https://i.ytimg.com/vi/naJweew98tE/maxresdefault.jpg\" alt=\"YouTube Thumbnail\">",
             "images": [
                 "https://m.media-amazon.com/images/I/61PDQOTF-+L._AC_SL1000_.jpg",
                 "https://m.media-amazon.com/images/I/61jJeZBliWL._AC_SX466_.jpg",
