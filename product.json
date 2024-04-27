@@ -10,13 +10,12 @@
             "stock": 94,
             "brand": "Apple",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+            "thumbnail": "<img src="https://img.youtube.com/vi/we9EKHD8moA/maxresdefault.jpg" alt="iPhone 9 - CONFIRMED Thumbnail">",
             "images": [
-                "https://i.dummyjson.com/data/products/1/1.jpg",
-                "https://i.dummyjson.com/data/products/1/2.jpg",
-                "https://i.dummyjson.com/data/products/1/3.jpg",
-                "https://i.dummyjson.com/data/products/1/4.jpg",
-                "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+                "https://m.media-amazon.com/images/I/61Y6k6KdkTL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61GEvnQfa5L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/31ysknT3-7L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/614VL-Ga42L._SX679_.jpg"
             ]
         },
         {
@@ -29,12 +28,12 @@
             "stock": 34,
             "brand": "Apple",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+            "thumbnail": "<img src="https://img.youtube.com/vi/opavYb_xMVg/maxresdefault.jpg" alt="₹10K iPhone X in 2023 - Thumbnail">",
             "images": [
-                "https://i.dummyjson.com/data/products/2/1.jpg",
-                "https://i.dummyjson.com/data/products/2/2.jpg",
-                "https://i.dummyjson.com/data/products/2/3.jpg",
-                "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+                "https://controlz.world/cdn/shop/files/4_4aa51121-01b6-4438-8b11-b3b38a636e2e.jpg?v=1706006091&width=823",
+                "https://controlz.world/cdn/shop/files/5_14b3daa3-db9d-4cff-9ba0-9f645a19c5b8.jpg?v=1714027075&width=823",
+                "https://controlz.world/cdn/shop/products/apple-iphone-x-premium-renewed-389584.jpg?v=1709634119&width=823",
+                "https://controlz.world/cdn/shop/products/apple-iphone-x-premium-renewed-780286.jpg?v=1709634119&width=823"
             ]
         },
         {
@@ -47,9 +46,9 @@
             "stock": 36,
             "brand": "Samsung",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+            "thumbnail": "<img src="https://img.youtube.com/vi/AaB3p1TqZzo/maxresdefault.jpg" alt="Samsung Odyssey Universe Thumbnail">",
             "images": [
-                "https://i.dummyjson.com/data/products/3/1.jpg"
+                "https://admin.hyperce.io/assets/thumbnail__12__preview.jpg?preset=full"
             ]
         },
         {
@@ -62,13 +61,12 @@
             "stock": 123,
             "brand": "OPPO",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+            "thumbnail": "<img src="https://img.youtube.com/vi/m3fsTZHFc40/maxresdefault.jpg" alt="OPPO F19 Pro+ Trailer Thumbnail">",
             "images": [
-                "https://i.dummyjson.com/data/products/4/1.jpg",
-                "https://i.dummyjson.com/data/products/4/2.jpg",
-                "https://i.dummyjson.com/data/products/4/3.jpg",
-                "https://i.dummyjson.com/data/products/4/4.jpg",
-                "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+                "https://m.media-amazon.com/images/I/41uiDAXRhgL._SX300_SY300_QL70_FMwebp_.jpg",
+                "https://m.media-amazon.com/images/I/81cmkaYSpBL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61VwxPfljTL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71EC70+HLaL._SX679_.jpg"
             ]
         },
         {
@@ -81,11 +79,11 @@
             "stock": 32,
             "brand": "Huawei",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+            "thumbnail": "<img src="https://i.ytimg.com/vi/naJweew98tE/maxresdefault.jpg" alt="YouTube Thumbnail">",
             "images": [
-                "https://i.dummyjson.com/data/products/5/1.jpg",
-                "https://i.dummyjson.com/data/products/5/2.jpg",
-                "https://i.dummyjson.com/data/products/5/3.jpg"
+                "https://m.media-amazon.com/images/I/61PDQOTF-+L._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/61jJeZBliWL._AC_SX466_.jpg",
+                "https://m.media-amazon.com/images/I/51Ia-oMKRfL._AC_SX466_.jpg"
             ]
         }
     ]
